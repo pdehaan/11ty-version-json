@@ -1,0 +1,9 @@
+{
+  "short": "b03785b",
+  "branch": "main",
+  "homepage": "https://github.com/pdehaan/11ty-version-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-version-json.git"
+  }
+}

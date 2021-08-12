@@ -1,0 +1,12 @@
+{
+  "name": "11ty-version-json",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pdehaan/11ty-version-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-version-json.git"
+  },
+  "short": "b03785b",
+  "branch": "main",
+  "timestamp": "2021-08-12T01:47:06.294Z"
+}

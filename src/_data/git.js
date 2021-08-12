@@ -1,4 +1,4 @@
-const git = require('git-rev-sync');
+const git = require("git-rev-sync");
 
 module.exports = {
   short: git.short(),

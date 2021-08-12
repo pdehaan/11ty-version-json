@@ -1,0 +1,10 @@
+---
+permalink: version2.json
+---
+
+{
+  "short": {{ git2.short() | json_stringify | safe }},
+  "branch": "{{ git2.branch() }}",
+  "homepage": "{{ pkg.homepage }}",
+  "repository": {{ pkg.repository | json_stringify | safe }}
+}
