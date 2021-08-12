@@ -1,0 +1,9 @@
+
+{
+  "name": "11ty-version-json",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pdehaan/11ty-version-json#readme",
+  "repository": "git+https://github.com/pdehaan/11ty-version-json.git",
+  "sha": "ddb6c207e9325da6c7898babc1cbc1f2a43be07c",
+  "branch": "main"
+}

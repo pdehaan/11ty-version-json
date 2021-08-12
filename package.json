@@ -1,17 +1,26 @@
 {
   "name": "11ty-version-json",
+  "description": "Publish current git info w/ Eleventy.",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Peter deHaan",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-version-json/issues"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "git-rev-sync": "^3.0.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/11ty-version-json#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-version-json.git"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
